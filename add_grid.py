@@ -42,4 +42,4 @@ def draw_grid(image_path, output_path, grid_size):
     image.save(output_path)
 
 # Contoh penggunaan
-draw_grid("input_image.png", "output_image_with_grid.png", 300)
+draw_grid("input_image.png", "grid_image.png", 300)
